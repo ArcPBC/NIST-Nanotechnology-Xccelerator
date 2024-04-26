@@ -1,0 +1,28 @@
+#,Tile Title,Mirror,Source,GDS,Team,PI(s),Contact
+1,Alignment Mark Tile,,,,George Washington University & NIST,Gina Adam,ginaadam@gwu.edu
+2,High Frequency TIA,https://github.com/ArcPBC-mirrors/dd-hephy--HiBPM--asic--tia-public,https://gitlab.com/dd-hephy/HiBPM/asic/tia-public,https://gitlab.com/dd-hephy/HiBPM/asic/tia-public/-/blob/main/gds/top.gds,Austrian Institute of High Energy Physics,Simon Waid,simon.waid@oeaw.ac.at
+3,Cryogenic Test Vehicle Tile for Magnetic Sensors & Other Quantum Sensors,,,,Brown University,Alex Zaslavsky & William Patterson,alex_zaslavsky@brown.edu & william_patterson_iii@brown.edu
+4,Test Tile for RF characterization of Nanodevices & measurement of Ferromagnetic Resonance of Nanodevices,,,,Carnegie Mellon University,Rick Carley,lrc@andrew.cmu.edu
+5,Analog Gate Array Educational Tile,,,,Carnegie Mellon University,Rick Carley,lrc@andrew.cmu.edu
+6,MEM-ID: A Reference Resistance Comparator Test Vehicle for Memory Devices,,,,George Washington University,Gina Adam,ginaadam@gwu.edu
+7,Transistor Tile,,,,George Washington University,Gina Adam,ginaadam@gwu.edu
+8,Nanotech Accelerator (NTA) Tile,,,,George Washington University,Gina Adam,ginaadam@gwu.edu
+9,Endurance Test Vehicle for Memory Devices,,,,University of Michigan,Mehdi Saligane,mehdi@umich.edu
+10,NanoCMOS Passive Tile,,,,LBNL / UCB,Maurice Garcia-Sciveres,mgarcia-sciveres@lbl.gov
+11,NanoCMOS ActiveTile,,,,LBNL / UCB,Maurice Garcia-Sciveres,mgarcia-sciveres@lbl.gov
+12,Scanit Tile,,,,LBNL / UCB,Peter Denes,pdenes@lbl.gov
+13,CV Measurement Tile,,,https://github.com/idea-fasoc/openfasoc-tapeouts/blob/main/Nanofab/tiles/1.CV_tile_231120.gds.gz,University of Michigan,Mehdi Saligane,mehdi@umich.edu
+14,PLL Tile,,,https://github.com/idea-fasoc/openfasoc-tapeouts/blob/main/Nanofab/tiles/2.PLL_tile_231203_0300_rev1_MR_fix.gds.gz,University of Michigan,Mehdi Saligane,mehdi@umich.edu
+15,Room Temperature (RT) Amplifier Tile,,https://github.com/idea-fasoc/OpenFASOC/tree/main/openfasoc/generators/gdsfactory-gen/tapeout_and_RL,https://github.com/idea-fasoc/openfasoc-tapeouts/blob/main/Nanofab/tiles/3.RT_tile_231203_1628.7z,University of Michigan,Mehdi Saligane,mehdi@umich.edu
+16,Cryogenic Amplifier Tile,,https://github.com/idea-fasoc/OpenFASOC/tree/main/openfasoc/generators/gdsfactory-gen/tapeout_and_RL,https://github.com/idea-fasoc/openfasoc-tapeouts/blob/main/Nanofab/tiles/4.Cryo_tile_231203_1649.7z,University of Michigan,Mehdi Saligane,mehdi@umich.edu
+17,P-Bit Test Vehicle,,,,University of Maryland & NIST,Advait Madhavan,amadha1@umd.edu
+18,Bio-Capacitive Device Sensor Array (Large Capacitance) & Bio-manufacturing Test Vehicle,,,,University of Maryland & NIST,Advait Madhavan,amadha1@umd.edu
+19,18-Kb test vehicle for novel 2-Terminal Memory Devices Vehicle,,,,University of Maryland & NIST,Advait Madhavan,amadha1@umd.edu
+20,Bio-Capacitive Device Sensor Array (Fringe Capacitance) & Bio-manufacturing Test Vehicle,,,,University of Maryland,Sahil Shah & Pamela Abshire,sshah389@umd.edu & pabshire@umd.edu
+21,Ion-sensitive Field Effect Transistor Array Test Vehicle,,,,University of Maryland,Sahil Shah & Pamela Abshire,sshah389@umd.edu & pabshire@umd.edu
+22,GaN-CMOS NIR heterogenous integration test vehicle,,,,University of Maryland & University of Virginia,Sahil Shah & Kyusang Lee,sshah389@umd.edu & kl6ut@virginia.edu
+23,Multi-modal biosensor test vehicle,,,,University of Tennessee,Nicole McFarlane,mcfarlane@utk.edu
+24,1kb 3-Terminal Device Test Vehicle (5V Version),,,,University of Virginia,Mircea Stan,mrs8n@virginia.edu
+25,1kb 3-Terminal Device Test Vehicle (20V Version),,,,University of Virginia,Mircea Stan,mrs8n@virginia.edu
+26,Integrated Current sensor test vehicle for biomembrane current measurements,,,,York University,Sebastian Magierowski,magiero@yorku.ca
+27,Large Ion-Sensitive FET,,,,York University,Ebrahim Ghafar-Zadeh,egz@yorku.ca

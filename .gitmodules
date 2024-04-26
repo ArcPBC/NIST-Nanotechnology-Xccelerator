@@ -1,0 +1,3 @@
+[submodule "02-tia"]
+	path = 02-tia
+	url = git+ssh://github.com/ArcPBC-mirrors/dd-hephy--HiBPM--asic--tia-public
